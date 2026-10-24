@@ -1,0 +1,12 @@
+node_modules/
+.env
+*.log
+data/inquiries.json
+*.bak.*
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.zip
+*.tar.gz
+_backups/
